@@ -10,6 +10,9 @@ import {
     Container
 } from 'reactstrap';
 
+/**
+ * Navbar using Reactstrap
+ */
 class AppNavBar extends Component {
     state = {
         isOpen: false
